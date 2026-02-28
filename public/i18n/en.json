@@ -1,0 +1,177 @@
+{
+    "site_name": "Kumaran Silks & Sarees",
+    "tagline": "India's Heritage Silk Destination Since 1925",
+    "nav": {
+        "home": "Home",
+        "collections": "Collections",
+        "new_arrivals": "New Arrivals",
+        "heritage": "Our Heritage",
+        "contact": "Contact"
+    },
+    "mega_menu": {
+        "by_silk_type": "By Silk Type",
+        "kanjivaram": "Kanjivaram",
+        "soft_silk": "Soft Silk",
+        "banarasi": "Banarasi",
+        "tussar": "Tussar",
+        "brocade": "Brocade",
+        "tissue": "Tissue",
+        "by_occasion": "By Occasion",
+        "muhurtham": "Muhurtham (Wedding)",
+        "reception": "Reception",
+        "gifting": "Gifting",
+        "casual": "Casual & Daily Wear",
+        "by_brand": "By Brand",
+        "amrithavarshini": "Amrithavarshini",
+        "pcr": "PCR Collection",
+        "lea": "Lea"
+    },
+    "hero": {
+        "slide1_title": "The Regal Drape",
+        "slide1_subtitle": "Handwoven Kanchipuram Silk — A Legacy of 100 Years",
+        "slide1_cta": "Explore Collection",
+        "slide2_title": "Timeless Elegance",
+        "slide2_subtitle": "Exquisite Silk Sarees for Every Occasion",
+        "slide2_cta": "Shop Now"
+    },
+    "categories": {
+        "title": "Curated Collections",
+        "subtitle": "Explore our finest handpicked silk categories",
+        "kanjivaram": "Kanjivaram Silk",
+        "soft_silk": "Soft Silk",
+        "banarasi": "Banarasi",
+        "tussar": "Tussar Silk",
+        "brocade": "Brocade Silk",
+        "tissue": "Tissue Silk"
+    },
+    "products": {
+        "title": "The Drape View",
+        "subtitle": "Hover to see the silk come alive",
+        "quick_view": "Quick View",
+        "add_to_cart": "Add to Cart",
+        "filter_title": "Refine Selection",
+        "filter_zari": "Zari Type",
+        "zari_pure_gold": "Pure Gold Zari",
+        "zari_tested": "Tested Zari",
+        "zari_copper": "Copper Zari",
+        "filter_weave": "Weave Pattern",
+        "weave_mayil": "Mayil (Peacock)",
+        "weave_chakram": "Chakram (Wheel)",
+        "weave_temple": "Temple Border",
+        "filter_occasion": "Occasion",
+        "all": "All"
+    },
+    "product_items": [
+        {
+            "name": "Royal Maroon Kanjivaram",
+            "desc": "Pure gold zari temple border with traditional mayil motifs. Handwoven in Kanchipuram.",
+            "price": "₹45,500",
+            "silk": "Kanjivaram",
+            "zari": "Pure Gold",
+            "weave": "Temple Border",
+            "occasion": "Muhurtham"
+        },
+        {
+            "name": "Royal Blue Peacock Silk",
+            "desc": "Intricate peacock design with pure gold zari on royal blue Kanchipuram silk.",
+            "price": "₹38,900",
+            "silk": "Kanjivaram",
+            "zari": "Pure Gold",
+            "weave": "Mayil",
+            "occasion": "Reception"
+        },
+        {
+            "name": "Emerald Banarasi Brocade",
+            "desc": "Rich emerald green Banarasi silk with intricate brocade weaving and gold thread work.",
+            "price": "₹32,750",
+            "silk": "Banarasi",
+            "zari": "Tested",
+            "weave": "Chakram",
+            "occasion": "Reception"
+        },
+        {
+            "name": "Magenta Chakram Silk",
+            "desc": "Vibrant magenta Kanchipuram silk with golden chakram wheel design border.",
+            "price": "₹41,200",
+            "silk": "Kanjivaram",
+            "zari": "Pure Gold",
+            "weave": "Chakram",
+            "occasion": "Muhurtham"
+        },
+        {
+            "name": "Ivory Temple Classic",
+            "desc": "Elegant ivory white Kanchipuram silk with maroon pallu and temple tower border design.",
+            "price": "₹55,800",
+            "silk": "Kanjivaram",
+            "zari": "Pure Gold",
+            "weave": "Temple Border",
+            "occasion": "Muhurtham"
+        },
+        {
+            "name": "Golden Tussar Elegance",
+            "desc": "Natural tussar silk with traditional Indian motifs and copper zari detailing.",
+            "price": "₹18,500",
+            "silk": "Tussar",
+            "zari": "Copper",
+            "weave": "Temple Border",
+            "occasion": "Gifting"
+        }
+    ],
+    "heritage": {
+        "title": "Our Heritage",
+        "subtitle": "A Legacy Woven in Gold",
+        "story": "Kumaran Silks' humble beginnings have evolved into a global textile powerhouse with the finest textiles that reflect India's rich heritage and craftsmanship. Our journey from a small outlet in T. Nagar to a celebrated name in textiles is a story of passion, dedication, and an unwavering commitment to quality.",
+        "founder_quote": "\"Every thread we weave carries the soul of our tradition and the dream of our future.\"",
+        "founder_name": "— Shri P. Chengalvaraya Chettiar, Founder",
+        "timeline": {
+            "1925": "Kumaran Silks founded in T. Nagar, Chennai",
+            "1960": "Launched the iconic Amrithavarshini brand",
+            "1985": "Expanded to become Chennai's premier silk destination",
+            "2010": "Introduced PCR Collection for men's traditional wear",
+            "2026": "Digital Flagship launch — bringing heritage online"
+        }
+    },
+    "testimonials": {
+        "title": "What Our Patrons Say",
+        "items": [
+            {
+                "text": "The quality of Kumaran Silks sarees is unmatched. I wore their Kanjivaram for my wedding and received endless compliments.",
+                "name": "Priya Raghavan",
+                "location": "Chennai"
+            },
+            {
+                "text": "Walking into Kumaran Silks is like stepping into a world of pure luxury. Their collection is breathtaking.",
+                "name": "Meenakshi Sundaram",
+                "location": "Bangalore"
+            },
+            {
+                "text": "Three generations of my family have bought sarees only from Kumaran Silks. The trust is earned, not given.",
+                "name": "Lakshmi Narayanan",
+                "location": "Madurai"
+            }
+        ]
+    },
+    "store": {
+        "title": "Visit Our Heritage Store",
+        "address": "12, Nageswaran Rao Road, Panagal Park, T. Nagar, Chennai — 600017",
+        "hours": "Monday – Sunday, 9:00 AM – 9:00 PM",
+        "phone": "+91 44 2434 1234",
+        "directions_cta": "Get Directions to Store",
+        "map_caption": "Located in the heart of T. Nagar — Chennai's silk capital"
+    },
+    "footer": {
+        "about": "About Kumaran Silks",
+        "about_text": "Since 1925, Kumaran Silks has been Chennai's most trusted destination for pure silk sarees, handwoven with love and tradition.",
+        "quick_links": "Quick Links",
+        "collections_title": "Collections",
+        "contact": "Contact Us",
+        "newsletter_title": "Stay Connected",
+        "newsletter_placeholder": "Enter your email",
+        "newsletter_cta": "Subscribe",
+        "copyright": "© 2026 Kumaran Silks & Sarees. All Rights Reserved.",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service",
+        "shipping": "Shipping & Returns"
+    },
+    "lang_toggle": "தமிழ்"
+}
